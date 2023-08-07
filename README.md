@@ -1,5 +1,5 @@
 # A_Simple_Aspect_Based_Sentiment_Analysis
-A school project of applying aspect-based sentiment analysis on restaurant reviews.
+A simple project of applying aspect-based sentiment analysis on restaurant reviews.
 
 ## Project Description
 1. Trained a custom `Name Entity Recognition` (NER) model using `prodigy`.
